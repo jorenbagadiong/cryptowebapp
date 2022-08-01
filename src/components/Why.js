@@ -22,7 +22,7 @@ const Why = () => {
             <h2 className="section-title">Why you should choose CRAPPO</h2>
             <p className="section-subtitle">
               Experience the next generation cryptocurrency platform. No
-              finacial borders, extra fees, and fake reviews
+              financial borders, extra fees, and fake reviews
             </p>
             <button className="btn px-6">Learn more</button>
           </div>
